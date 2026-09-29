@@ -1,0 +1,10 @@
+{
+  "schemaVersion": "0.1.0",
+  "executionId": "exec-example-001",
+  "correlationId": "corr-example-001",
+  "harness": "pi.dev",
+  "task": "Confirm in one short sentence that the request reached the local Praetorium stack.",
+  "contextPacketRefs": [],
+  "toolGrants": [],
+  "timeoutSeconds": 60
+}

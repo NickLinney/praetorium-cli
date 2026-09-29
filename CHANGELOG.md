@@ -6,5 +6,5 @@
 - Added inline, file, stdin, and supplied-request execution paths.
 - Added request inspection, profile-based configuration, validation, status, and safe alias preparation.
 - Added human/JSON rendering and stable exit codes.
-- Added CGO-free Linux amd64 release build, installer, checksum generation, and CI.
+- Added CGO-free Linux amd64 release build, installer, and checksum generation.
 - Deferred attachments, registries, authority/IAM resolution, Skills/MCP, persistent sessions, `.deb`, and broad certification.
